@@ -1,0 +1,5 @@
+customer name=ravi is using Airtel isp in Belandur store store ip 23.21.23.102. from bangalore franchise
+customer name=ravi1 is using Airtel isp in Belandur store store ip 23.21.24.102. from bangalore franchise
+customer name=ravi2 is using Airtel isp in Belandur store store ip 23.21.25.102. from bangalore franchise
+customer name=ravi3 is using Airtel isp in Belandur store store ip 23.21.26.102. from bangalore franchise
+customer name=ravi4 is using Airtel isp in Belandur store store ip 33.21.237.102. from bangalore franchise
